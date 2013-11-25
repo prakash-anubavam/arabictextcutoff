@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="app_name">Shukran</string>
+	<string name="home">HOME</string>
+	<string name="offer">OFFER</string>
+	<string name="offers">OFFERS</string>
+	<string name="news">News</string>
+	<string name="faq">FAQ</string>
+	<string name="stores">STORE LOCATOR</string>
+	<string name="points">POINTS CALCULATOR</string>
+	<string name="reminders">REMINDERS</string>
+	<string name="about">ABOUT</string>
+	<string name="settings">MY ACCOUNT</string>
+	<string name="logout">LOGOUT</string>
+	<string name="sync">STORES SYNC NOW</string>
+	<string name="syncoffers">OFFERS SYNC NOW</string>
+	<string name="menuheader">SHUKRAN REWARDS</string>
+	<string name="storenearby">STORE NEARBY</string>
+	<string name="storesnearby">STORES NEARBY</string>
+	<string name="availablepoints">AVAILABLE POINTS</string>
+	<string name="latestnews">LATEST NEWS:</string>
+	<string name="view">VIEW:</string>
+	<string name="sort">SORT:</string>
+	<string name="all">All</string>
+	<string name="none">None</string>
+	<string name="expiry">Expiry</string>
+	<string name="latest">Latest</string>
+	<string name="shukran">shukran</string>
+	<string name="shukran_message">Earn shukran points on anything anywhere!</string>
+	<string name="forgotpassword">Forgot your password?</string>
+	<string name="username">Username</string>
+	<string name="password">Password</string>
+	<string name="login">LOGIN</string>
+	<string name="haveacard">HAVE A CARD?</string>
+	<string name="newmember">NEW MEMBER?</string>
+	<string name="activateyouraccount">ACTIVATE YOUR ACCOUNT</string>
+	<string name="registernow">JOIN NOW</string>
+	<string name="alerttitle">Shukran</string>
+	<string name="internetconnectiontitle">Internet Connection Error</string>
+	<string name="internetconnectionmessage">You are not connected to the Internet. Please check your settings and try again.</string>
+	<string name="somethingwrong">We're sorry, an unexpected error occurred. This is usually due to problems in your Mobile data connection. Please try again.</string>
+	<string name="searchhint">Keyword, Brand..</string>
+	<string name="of">of</string>
+	<string name="remainder">ADD REMINDER</string>
+	<string name="remainderactive">REMOVE REMINDER</string>
+	<string name="share">SHARE OFFER</string>
+	<string name="description">DESCRIPTION</string>
+	<string name="available">AVAILABLE AT</string>
+	<string name="showmap">Show on map</string>
+	<string name="step1label">STEP 1 : ENTER YOUR INFORMATION</string>
+	<string name="personaldetails">PERSONAL DETAILS</string>
+	<string name="required">* REQUIRED</string>
+	<string name="type">Type:</string>
+	<string name="productLabel">Product Categories</string>
+	<string name="exclusivityLabel">Exclusivity</string>
+	<string name="countryLabel">Country</string>
+	<string name="cityLabel">City</string>
+	<string name="mallLabel">Malls</string>
+	<string name="specialOffer">Special Offer:</string>
+	<string name="pointBalance">YOUR POINTS</string>
+	<string name="availablenow">AVAILABLE NOW</string>
+	<string name="pending">PENDING</string>
+	<string name="transaction">Transactions</string>
+	<string name="profile">Profile</string>
+	<string name="preference">Preferences</string>
+	<string name="connectionLabel">CONNECTIONS</string>
+	<string name="fb">Facebook</string>
+	<string name="twitter">Twitter</string>
+	<string name="linkedin">Linked In</string>
+	<string name="notification">SEND ME PUSH NOTIFICATIONS FOR</string>
+	<string name="notificationpoints">Point Balance Change</string>
+	<string name="offreminders">Off Reminders</string>
+	<string name="withreminders">Nearby Stores of Offers with Reminders</string>
+	<string name="communicationlabel">Communication Preference:</string>
+	<string name="communicationtext">How would you like us to get in touch with you for special offers, newsletters and other communication?</string>
+	<string name="emaillabel">E-Mail</string>
+	<string name="maillabel">Mail</string>
+	<string name="languagelabel">LANGUAGE PREFERENCE</string>
+	<string name="languagemenu">Change language to</string>
+	<string name="languagemenuname">العربية</string>
+	<string name="languagetext">Please set the language of this applicaton</string>
+	<string name="arabiclabel">Arabic</string>
+	<string name="englishlabel">English</string>
+	<string name="statementlabel">Statement:</string>
+	<string name="statementtext">How would you like to receive your rewards statement?</string>
+	<string name="offerslabel">Offers:</string>
+	<string name="offerstext">What categories are you interested in?</string>
+	<string name="categorylabel">Categories</string>
+	<string name="brandlabel">Brands</string>
+	<string name="selectlabel">Select:</string>
+	<string name="offerslist1">
+		Destination Centers <![CDATA["&"]]> Malls
+	</string>
+	<string name="offerslist2">
+		Furniture <![CDATA["&"]]> Furnishings
+	</string>
+	<string name="offerslist3">
+		Clothing <![CDATA["&"]]> Accessories
+	</string>
+	<string name="offerslist4">
+		Footwear <![CDATA["&"]]> Accessories
+	</string>
+	<string name="offerslist5">
+		Baby <![CDATA["&"]]> Children
+	</string>
+	<string name="offerslist6">
+		Beauty <![CDATA["&"]]> Cosmetics
+	</string>
+	<string name="profilelabel">PROFILE DETAILS</string>
+	<string name="titlelabel">TITLE</string>
+	<string name="namelabel">NAME</string>
+	<string name="cardonname">NAME ON CARD</string>
+	<string name="genderlabel">GENDER</string>
+	<string name="doblabel">DATE OF BIRTH</string>
+	<string name="nationlabel">NATIONALITY</string>
+	<string name="contactlabel">CONTACT DETAILS</string>
+	<string name="boxlabel">P.O.BOX</string>
+	<string name="citylabel">CITY</string>
+	<string name="ziplabel">ZIP CODE</string>
+	<string name="countrylabel">COUNTRY</string>
+	<string name="mobilelabel">MOBILE</string>
+	<string name="phonelabel">LANDLINE</string>
+	<string name="familylabel">FAMILY STATUS</string>
+	<string name="statuslabel">FAMILY STATUS</string>
+	<string name="anniversarylabel">ANNIVERSARY</string>
+	<string name="childlabel">CHILDREN</string>
+	<string name="salarylabel">MONTHLY SALARY</string>
+	<string name="freqlabel">SHOP FREQUENCY</string>
+	<string name="passlabel">PASSWORD</string>
+	<string name="oldpass">Old Password</string>
+	<string name="newpass">New Password</string>
+	<string name="confirmpass">Confirm Password</string>
+	<string name="changePasswordButton">CHANGE PASSWORD</string>
+	<string name="sortby">Sort By:</string>
+	<string name="datelabel">Date</string>
+	<string name="loadMoreButton">Load 10 More</string>
+	<string name="storesearchhint">Brand or City</string>
+	<string name="within">WITH IN:</string>
+	<string name="direction">Get Directions</string>
+	<string name="checkin">Check In</string>
+	<string name="hours">HOURS OF OPERATION</string>
+	<string name="currentoffers">CURRENT OFFERS</string>
+	<string name="interestLabel">What Brands are you interested in?</string>
+	<string name="fieldrequired">* This Field is Required</string>
+	<string name="pwderrormsg">Password must be 6-10 characters long and \ncontain at least 1 number.</string>
+	<string name="preferencelabel">Preference</string>
+	<string name="transactionlabel">Transaction</string>
+	<string name="notransactions">No Transactions</string>
+	<string name="store">Store</string>
+	<string name="point">Points</string>
+	<string name="amount">Amount</string>
+	<string name="title">Title</string>
+	<string name="firstname">First Name</string>
+	<string name="lastname">Last Name</string>
+	<string name="middlename">Middle Name</string>
+	<string name="cardname">Name on Card</string>
+	<string name="dateofbirth">Date of Birth:</string>
+	<string name="gender">Gender</string>
+	<string name="nationality">Nationality</string>
+	<string name="contactdetails">CONTACT DETAILS</string>
+	<string name="country">Country</string>
+	<string name="state">State</string>
+	<string name="address1">Address 1</string>
+	<string name="address2">Address 2</string>
+	<string name="address3">Address 3</string>
+	<string name="pobox">P.O.Box</string>
+	<string name="zipcode">Zip Code</string>
+	<string name="mobilephoneno">Mobile Phone Number</string>
+	<string name="landlinephoneno">Landline Phone Number</string>
+	<string name="step2label">STEP 2 : CREATE PASSWORD</string>
+	<string name="step3label">STEP 3 : CONFIRM</string>
+	<string name="familystatus">Family Status</string>
+	<string name="maritalstatus">Marital Status</string>
+	<string name="anniversary">ANNIVERSARY</string>
+	<string name="children">Children?</string>
+	<string name="monthlysalary">
+		Monthly <![CDATA["/"]]> Salary
+	</string>
+	<string name="yourinterests">Your Interests</string>
+	<string name="interests">INTERESTS</string>
+	<string name="arts">Arts</string>
+	<string name="sports">Sports</string>
+	<string name="moviestheatre">
+		Movies<![CDATA["/"]]> Theatre
+	</string>
+	<string name="music">Music</string>
+	<string name="shopping">Shopping</string>
+	<string name="travel">Travel</string>
+	<string name="food">Food</string>
+	<string name="shopfrequency">Shop Frequency</string>
+	<string name="monthlyspend">Monthly Spend</string>
+	<string name="emailaddress">Email Address</string>
+	<string name="confirmpassword">Confirm Password</string>
+	<string name="emailandpassword">
+		EMAIL <![CDATA["&"]]> PASSWORD
+	</string>
+	<string name="step1labelactivation">STEP 1 : ENTER YOUR CARD NUMBER</string>
+	<string name="step2labelactivation">STEP 2 : VERIFY YOUR MEMBERSHIP</string>
+	<string name="step3labelactivation">STEP 3 : ENTER YOUR PASSWORD</string>
+	<string name="information">Information</string>
+	<string name="entercardno">Enter Your Card Number</string>
+	<string name="verificationmethod">Verification Method</string>
+	<string name="verificationfield">Verification Field</string>
+	<string name="cardnumber">CARD NUMBER</string>
+	<string name="remindermissalert">Never miss an offer when you set a reminder,we will notify you before it expires.\n\nReminders are avaialble for Shukran Members only, please Login, Join or Active your Account now to take advantage.</string>
+	<string name="memberalert">Exclusive Offers are only for Shukran Members only, please Login, Join or Activate your Account now to take advantage.</string>
+	<string name="remindersetalert">When you Add a Reminder, we will notify you 3 days prior to the Offer expiration.\n\nNever miss an Offer when you Add a Reminder!</string>
+	<string name="passwordinfo">Your password must have at least 6 characters\nYou must use a mix of letters and numbers</string>
+	<!-- Arabic - content -->
+
+	<!-- Cities -->
+	<string name="dubai_ar">دبي</string>
+	<string name="manama_ar">منامة</string>
+	<string name="riyadh_ar">رياض</string>
+	<string name="doha_ar">دوحة</string>
+	<string name="amman_ar">عمان</string>
+	<string name="kuwait_city_ar">مدينة الكويت</string>
+	<string name="muscat_ar">مسقط</string>
+	<string name="internetconnectiontitle_ar">اتصال إنترنت خاطيء</string>
+	<string name="internetconnectionmessage_ar">نأسف! يرجى الاتصال بالإنترنت.يرجىالتحقق من الإعداداتوالمحاولة مرة أخرى</string>
+
+	<!-- Splash Screen on first load-->
+	<string name="language_ar">اللغة</string>
+	<string name="selectlanguage_ar">الرجاء اختيار اللغة المفضلة</string>
+	<string name="english_ar">الانجليزية</string>
+	<string name="arabic_ar">العربية</string>
+
+	<!-- Country-->
+	<string name="selectcountry_ar">:الرجاء اختيار بلدك</string>
+	<string name="uae_ar">دولة الامارات العربية المتحدة</string>
+	<string name="bahrain_ar">البحرين</string>
+	<string name="saudi_Arabia_ar">المملكة العربية السعودية</string>
+	<string name="qatar_ar">قطر</string>
+	<string name="jordan_ar">الاردن</string>
+	<string name="kuwait_ar">الكويت</string>
+	<string name="oman_ar">سلطنة عمان</string>
+
+	<!-- DashBoard1 -->
+	<string name="activate_account_ar">تفعيل حسابك</string>
+	<string name="existing_Shukran_member_ar">هل انت \n عضو في برنامج شكرا؟</string>
+	<string name="touch_here_ar">اضغط هنا</string>
+	<string name="enroll_now_ar">سجل الآن</string>
+	<string name="first_time_about_shukran_ar">هل هذه أول مرة تسمع \n فيها عن برنامج شكرا؟</string>
+	<string name="loginBtn_ar">تسجيل الدخول</string>
+
+	<!-- Dashboard2 -->
+	<string name="username_ar">رقم البطاقة أو البريد الالكتروني</string>
+	<string name="password_ar">كلمة السر</string>
+	<string name="forgotyourpassword_ar">نسيت كلمة السر؟</string>
+	<string name="have_card_ar">هل لديك بطاقة؟</string>
+	<string name="new_to_shukran_ar">مستخدم جديد؟</string>
+
+	<!-- Login-forgot password -->
+	<string name="forgotpassswordlbl_ar">نسيت كلمة السر</string>
+	<string name="dontworrylbl_ar">لا تقلق. ببساطة ادخل البريد الالكتروني أو رقم البطاقة هنا وسوف نقوم بارسال التعليمات الخاصة باستعادة كلمة السر</string>
+	<string name="enter_email_cardno_ar">ادخل البريد الالكتروني أو رقم البطاقة</string>
+	<string name="submit_ar">ارسال</string>
+	<string name="validitymessage_ar">الرجاء ادخال البريد الالكتروني أو رقم البطاقة بطريقة صحيحة</string>
+	<string name="successlbl1_ar">تمت العملية بنجاح – الرجاء التحقق من بريدك الالكتروني</string>
+	<string name="successlbl2_ar">لقد قمنا بارسال بريد الكتروني بالتعليمات لاعادة كلمة السر.ببساطة اضغط على الرابط في بريدك الالكتروني</string>
+	<string name="successlbl3_ar">: اذا لم تصلك رسالة ،الرجاء التحقق من صندوق الرسائل غير المرغوب فيها. واذا كنت قد فعلت هذا مسبقا ولم تصلك الرسالة ، الرجاء الاتصال بنا على</string>
+	<string name="supportline_ar"> رقم خدمة العملاء</string>
+	<string name="outsideUAElbl_ar">من خارج دولة الامارات</string>
+	<string name="phone2_ar">+97148113499</string>
+
+	<!-- Account Registration Step1 -->
+	<string name="enrollment_ar">التسجيل</string>
+	<string name="step1lbl_ar">الخطوة 1: أدخل معلوماتك</string>
+	<string name="step2lbl_ar">الخطوة 2: عمل كلمة السر</string>
+	<string name="step3lbl_ar">الخطوة 3: تأكيد</string>
+	<string name="requiredlbl_ar">* معلومات مطلوبة</string>
+	<string name="personaldetailslbl_ar">تفاصيل شخصية</string>
+	<string name="firstname_ar">الاسم الاول</string>
+	<string name="middlename_ar">الاسم الأوسط</string>
+	<string name="lastname_ar">الاسم الاخير</string>
+	<string name="dob_ar">تاريخ الميلاد</string>
+	<string name="gender_ar">الجنس</string>
+	<string name="male_ar">ذكر</string>
+	<string name="female_ar">أنثى</string>
+	<string name="nationality_ar">الجنسية</string>
+	<string name="contactdetailslbl_ar">تفاصيل الاتصال</string>
+	<string name="country_ar">الدولة</string>
+	<string name="state_ar">المنطقة</string>
+	<string name="city_ar">المدينة</string>
+	<string name="address1_ar">العنوان 1</string>
+	<string name="address2_ar">العنوان 2</string>
+	<string name="address3_ar">العنوان 3</string>
+	<string name="pobox_ar">صندوق البريد</string>
+	<string name="zipcode_ar">الرمز البريدي</string>
+	<string name="mobileno_ar">رقم الهاتف المتحرك</string>
+	<string name="landline_ar">رقم الهاتف</string>
+	<string name="continuenextbtnlbl_ar">متابعة الى القسم الثاني</string>
+	<string name="emailpassword_ar">البريد الكتروني وكلمة السر</string>
+	<string name="email_ar">البريد الالكتروني</string>
+
+	<!-- Account Registration Step2 -->
+	<string name="passwordinfo_ar">كلمة السر يجب الا تقل عن ٦ احرف\nيجب استخدام مزيج من الحروف والأرقام</string>
+	<string name="confirmpassword_ar">تأكيد كلمة السر</string>
+	<string name="entervalidemail_ar">* الرجاء إدخال عنوان بريد إلكتروني صالح</string>
+	<string name="passworddoesnotmatch_ar">*  كلمة المرور غير مطابق</string>
+
+	<!-- Account Registration Step3 -->
+	<string name="finishedlbl_ar">لقد انتهيت تقريبا!</string>
+	<string name="finishedlbl1_ar">لقد قمنا بارسال بريد الكتروني لتأكيد الاشتراك .الرجاء الضغط على الرابط لتتمكن من اكمال الاشتراك.</string>
+	<string name="finishedlbl2_ar">اذا لم تستلم اي رسالة ،الرجاء التحقق من صندوق الرسائل الغير مرغوب بها أوقم بالاتصال بخدمة العملاء.</string>
+
+	<!-- Contact us-->
+	<string name="contactuslbl_ar">اتصل بنا</string>
+	<string name="calluslbl_ar">اتصل بنا</string>
+	<string name="phone1_ar">800-Shukran (748 5726)</string>
+	<string name="writeuslbl_ar">اكتب لنا</string>
+	<string name="writeinfo_ar">املأ الاستمارة ادناه وسوف نقوم بالتواصل معك في أقرب وقت</string>
+	<string name="name_ar">الاسم</string>
+	<string name="cardnolbl_ar">رقم البطاقة (اختياري)</string>
+	<string name="commentlbl_ar">التعليق</string>
+	<string name="submitcommentlbl_ar">ارسال التعليق</string>
+	<string name="successmsg1_ar">لقد تم ارسال الرسالة بنجاح\n\nشكرا لك</string>
+	<string name="thankyou_ar">شكرا لك</string>
+
+	<!-- Card Activation -->
+	<string name="card_activationlbl_ar">تفعيل البطاقة</string>
+	<string name="step1activationlbl_ar">الخطوة 1: ادخل رقم البطاقة</string>
+	<string name="cardnumber_ar">رقم البطاقة</string>
+	<string name="enter16digitlbl_ar">ادخل رقم البطاقة المكون من 16 رقم</string>
+	<string name="continuelbl_ar">متابعة</string>
+	<string name="step2activationlbl_ar">الخطوة 2: تعريف رقم الاشتراك</string>
+	<string name="step3activationlbl_ar">الخطوة 3: ادخل كلمة سر جديدة</string>
+	<string name="donthavecard_ar">لا يوجد لديك رقم بطاقة؟</string>
+	<string name="haveonlineaccount_ar">هل يوجد لديك حساب ؟</string>
+	<string name="signinnow_ar">ادخل الان</string>
+	<string name="verifymembershiplbl_ar">لقد قمنا بارسال بريد الكتروني لتأكيد الاشتراك .الرجاء الضغط على الرابط لتتمكن تأكيد رقم الاشتراك.</string>
+	<string name="enrolledemail_ar">البريد الالكتروني المسجل سابقا</string>
+	<string name="checkspamlbl_ar">اذا لم تستلم اي رسالة ،الرجاء التحقق من صندوق الرسائل الغير مرغوب بها أو قم بالاتصال بخدمة العملاء.</string>
+	<string name="error_cardnotregistered_ar">رقم البطاقة الذي ادخلته غير مسجل بهذا البريد الالكتروني .لاتمام عملية تفعيل البطاقة يجب ادخال البريد الالكتروني</string>
+	<string name="contact_for_assistance_ar">الرجاء الاتصال بنا للمساعدة</string>
+	<string name="errorCardEmailAlreadyExist">لا يمكننا تفعيل بطاقتك، من فضلك قم بالاتصال بفريق الدعم</string>
+	<string name="passwordconditionlbl_ar">يجب على كلمة السر ان تكون مكونة من 6 أحرف</string>
+	<string name="activationsuccesslbl_ar">لقد تم تفعيل البطاقة بنجاح</string>
+	<string name="congratslbl_ar">تهانينا! لقد تم تفعيل رقم بطاقتك بنجاح .استمتع باكتشاف المزيد من مكافآت شكرا في أي مكان</string>
+	<string name="taketodashboardlbl_ar">خذني الى لوحتي</string>
+	<string name="emailAlreadyExists_ar">البريد مسجل سابقا</string>
+	<string name="enterEmailOrCard_ar">الرجاء ادخال البريد الالكتروني أو رقم البطاقة</string>
+	<string name="currentLocation_ar">الموقع الحالي</string>
+	<string name="removeReminder_ar">ازالة التنبيهات</string>
+	<string name="launch_ar">ابدأ</string>
+	<string name="close_ar">اغلق</string>
+	<string name="allCities_ar">جميع المدن</string>
+	<string name="selectNone_ar">إلغاء الاختيار</string>
+	<string name="storesFilter_ar">تصفية المحلات</string>
+	<string name="offer_ar">عرض</string>
+	<string name="storeAr">متجر</string>
+	<string name="toEarnShukranPts_ar">كيفية كسب النقاط</string>
+	<string name="available_ar">متوفر</string>
+	<string name="pointsAsOf_ar">النقاط المتوفره في حسابك حاليا لغاية</string>
+	<string name="loading_ar">تحميل</string>
+	<string name="unableToFindOffer_ar">غير قادر للوصول للعروض</string>
+	<string name="fb_post_message1_ar">لقد وجدت عرض</string>
+	<string name="fb_post_message2_ar">من شكرا</string>
+	<string name="successfullyPostedInFb_ar">بعث بنجاح الى الفيس بوك</string>
+	<string name="successfullyTwitted_ar">بعث بنجاح الى تويتر</string>
+	<string name="errorTwitting_ar">لم يتم الارسال بنجاح</string>
+	<string name="successfullyPostedInLinked_ar">بعث بنجاح الى لنكدين</string>
+	<string name="errorWhilePost_ar">لم يتم الارسال بنجاح</string>
+	<string name="failedToPostFb_ar">لم يتم الارسال بنجاح</string>
+	<string name="configureEmailAccountInDevice_ar">الرجاء تفعيل البريد الالكتروني في الهاتف</string>
+	<string name="CheckoutShukOffer_ar">تحقق من عروض شكرا في</string>
+	<string name="edit_ar">تحرير</string>
+	<string name="storesIn_ar">المحلات في</string>
+	<string name="memberAlert_ar">العروض الحصرية هي للأعضاء فقط. برجاء الاشتراك أو تفعيل الحساب للاستفادة</string>
+
+	<!-- Menu-->
+	<string name="home_ar">الرئيسية</string>
+	<string name="offers_ar">العروض</string>
+	<string name="stores_ar">تحديد موقع المحلات</string>
+	<string name="reminders_ar">تنبيهات</string>
+	<string name="settings_ar">حسابي</string>
+	<string name="points_ar">حاسبة النقاط</string>
+	<string name="faq_ar">الاسئلة الاكثر شيوعا</string>
+	<string name="about_ar">عن البرنامج</string>
+	<string name="logout_ar">خروج</string>
+	<string name="login_ar">دخول</string>
+	<string name="enrollNow_ar">اشترك الآن لتبدأ بكسب النقاط</string>
+	<string name="withShukranRewards_ar">كعضو من أعضاء برنامج شكرا يمكنك كسب النقاط  باستخدام بطاقتك في المحلات المشاركة</string>
+	<string name="languagemenu_ar">تغيير اللغة إلى</string>
+	<string name="languagemenuname_ar">English</string>
+
+	<!-- Points Calculator -->
+	<string name="sar">ريال‎</string>
+	<string name="aed">درهم</string>
+	<string name="bhd">دينار</string>
+	<string name="qar">ريال</string>
+	<string name="jod">دينار</string>
+	<string name="kwd">دينار</string>
+	<string name="omr">ريال</string>
+	<string name="pointscalclbl_ar">حاسبة النقاط</string>
+	<string name="pointsinfobl_ar">استخدم حاسبة النقاط لمعرفة عدد النقاط المكتسبة .قد تختلف عدد النقاط بحسب العلامة التجارية والمكان</string>
+	<string name="brand_ar">العلامة التجارية</string>
+	<string name="enterpricelbl_ar">ادخل السعر</string>
+	<string name="calculatepointslbl_ar">احسب النقاط</string>
+	<string name="nonsalepoints_ar">نقاط دون التنزيلات</string>
+	<string name="salepoints_ar">نقاط في التنزيلات</string>
+
+	<!-- Offerlist(loggedout)-->
+	<string name="memberexclusive_ar">للأعضاء فقط</string>
+	<string name="nevermisslbl_ar">لا تقم بتجاهل اي عرض، سوف نقوم بتنبيهك قبل انتهائه</string>
+	<string name="remindersavailable_ar">التنبيهات متوفرة لأعضاء شكرا فقط ، الرجاء التسجيل أو تفعيل اشتراكك لتتمكن من الحصول على هذه الميزة</string>
+	<string name="ok_ar">تأكيد</string>
+	<string name="exclusiveoffer_ar">عروض حصرية</string>
+	<string name="exclusiveofferinfo_ar">عروض حصرية لاعضاء شكرا فقط ، الرجاء التسجيل أو تفعيل اشتراكك لتتمكن من الحصول على هذه الميزة</string>
+
+	<!--Offerlist-loggedin-->
+	<string name="offeralert1_ar">عند وضع التنبهات ، سوف نقوم بتنبيهك 3 ايام قبل انتهاء العرض.</string>
+	<string name="offeralert2_ar">لا تتجاهل العروض عند وضع تنبيهات!</string>
+
+	<!--Offer details(loggedout)-->
+	<string name="remindermissalert_ar">لا تتجاهل العروض عند وضع تنبيهات</string>
+	<string name="of_ar">من</string>
+	<string name="enrolltoearnpts_ar">اشترك الآن لتبدأ بكسب النقاط</string>
+	<string name="participatingbrandlbl_ar">كعضو من أعضاء برنامج شكرا يمكنك كسب النقاط  باستخدام بطاقتك في المحلات المشاركة</string>
+	<string name="addreminderlbl_ar">وضع تنبيهات</string>
+	<string name="shareofferlbl_ar">مشاركة العرض</string>
+	<string name="descriptionlbl_ar">التفاصيل</string>
+	<string name="validlbl_ar">الصلاحية :</string>
+	<string name="viewterms_ar">الشروط</string>
+	<string name="earningptslbl_ar">كسب النقاط</string>
+	<string name="available_at_ar">متوفر في</string>
+	<string name="sharewealthlbl_ar">شارك العرض</string>
+	<string name="shareinfolbl_ar">شارك العروض الرائعة مع اصدقائك وعائلتك</string>
+	<string name="shareonfb_ar">شارك عبر الفيس بوك</string>
+	<string name="shareontwitter_ar">شارك عبر تويتر</string>
+	<string name="shareonlinkedin_ar">شارك عبر لينكدين</string>
+	<string name="termsnconditions_ar">الشروط والأحكام</string>
+
+	<!--Store Locator-->
+	<string name="addresslbl_ar">العنوان</string>
+	<string name="storewithin_ar">المحلات المشاركة</string>
+	<string name="storess_ar">المحلات</string>
+	<string name="allCategories_ar">جميع المجموعات</string>
+	<string name="go_ar">اذهب</string>
+	<string name="categories_ar">المجموعات</string>
+	<string name="setLocation_ar">اختر موقعا</string>
+	<string name="useCurrentLocation_ar">استخدم موقعك الحالي</string>
+	<string name="selectAll_ar">اختر الكل</string>
+
+	<!--<string name="city_ar">المدينة</string>-->
+	<string name="postalcode_ar">الرقم البريدي</string>
+	<string name="viewdetailslbl_ar">اظهر التفاصيل</string>
+	<string name="getdirectionslbl_ar">كيفية الوصول</string>
+	<string name="gpsnotactivelbl_ar">جي بي اس ليس متاحا الآن.الرجاء تشغيلة بالضغط هنا</string>
+	<string name="sorytryagainlbl_ar">نأسف، لا نستطيع ايجاد اي محل الرجاء المحاولة مرة أخرى</string>
+	<string name="currentoffers_ar">العروض المتوفرة حالي</string>
+
+	<!--dashboard(logged in)-->
+	<string name="stores_nearby_ar">المحلات القريبة</string>
+	<string name="store_nearby_ar">المحلات القريبة</string>
+	<string name="completelbl_ar">تم تحديث ملفك الشخصي بنسبة   %</string>
+	<string name="filloutlbl_ar">أكمل التحديث الآن</string>
+	<string name="availablepts_ar">النقاط المتوفرة</string>
+	<string name="asoflbl_ar">(آخر تحديث )</string>
+	<string name="learntoearnlbl_ar">تعلم عن كيفية كسب نقاط شكرا</string>
+	<string name="shukranbrands_ar">المحلات المشاركة في شكرا</string>
+
+	<!-- My account-Preferences-->
+	<string name="yourpts_ar">نقاطك</string>
+	<string name="asof_ar">تحديث لغاية</string>
+	<string name="availablenow_ar">المتوفر حالي</string>
+	<string name="pending_ar">قيد التفعيل</string>
+	<string name="profile_ar">الملف الشخصي</string>
+	<string name="profilelabel_ar">الملف الشخصي تفاصيل</string>
+	<string name="preferences_ar">المفضلات</string>
+	<string name="transactions_ar">المشتريات</string>
+	<string name="fb_ar">الفيس بوك</string>
+	<string name="connections_ar">الروابط</string>
+	<string name="connect_ar">اتصل</string>
+	<string name="disconnect_ar">اقطع الاتصال</string>
+	<string name="sendmelbl_ar">ابعث لي تحديثات عن</string>
+	<string name="pointsbalance_change_ar">تغيير عدد النقاط</string>
+	<string name="offer_reminders_ar">تنبيهات العروض</string>
+	<string name="nearbystoresoffer_ar">المحلات القريبة والعروض المتوفرة</string>
+	<string name="on_ar">افتح</string>
+	<string name="off_ar">اغلق</string>
+	<string name="languagepreferences_ar">اللغة المفضلة</string>
+	<string name="pleasesetlanguage_ar">الرجاء اختيار لغة لهذا التطبيق</string>
+	<string name="emaillabel_ar">E-Mail</string>
+
+	<!-- My Account-Transactions-->
+	<string name="store_ar">المحل</string>
+	<string name="amount_ar">القيمة</string>
+	<string name="invoice_ar">الفاتورة</string>
+	<string name="loadmore_ar">أظهر أكثر</string>
+
+	<!--My Account-Profile-->
+	<string name="cardonname_ar">:الاسم على البطاقة</string>
+	<string name="title_ar">اللقب</string>
+	<string name="familydetails_ar">عائلة تفاصيل</string>
+	<string name="familystatus_ar">الحالة الاجتماعية</string>
+	<string name="married_ar">متزوج</string>
+	<string name="single_ar">وحيد</string>
+	<string name="anniversary_ar">تاريخ الزواج</string>
+	<string name="children_ar">الاطفال</string>
+	<string name="yes_ar">نعم</string>
+	<string name="no_ar">لا</string>
+	<string name="monthlysalary_ar">الدخل الشهري</string>
+	<string name="shopfrequency_ar">الزيارات الشهرية للمحلات</string>
+	<string name="oldpassword_ar">كلمة السر القديمة</string>
+	<string name="newpass_ar">كلمة مرور جديدة</string>
+	<string name="changepassword_ar">تغيير كلمة السر</string>
+	<string name="linkedin_ar">لينكدين</string>
+	<string name="notification_ar">:إرسال الإشعارات لدفع لي</string>
+	<string name="notificationmiles_ar">كل عرض جديد في 50 كيلومتر</string>
+	<string name="notificationbookmark_ar">عروض المفضلة ضمن نطاق 1 كيلومتر</string>
+	<string name="notificationpoints_ar">نقطة التوازن التغيير</string>
+	<string name="notransactions_ar">لا المعاملات</string>
+	<string name="twitter_ar">تويتر</string>
+	<string name="contactlabel_ar">للإتصال</string>
+	<string name="storenotavail_ar">لا تتوفر المتاجر</string>
+	<string name="offersnotavail_ar">لا توجد عروض حاليا</string>
+	<string name="searchbarhinttext_ar">العنوان، المدينة، الرمز البريدي أو</string>
+	<string name="km_ar">كم</string>
+	<string name="m_ar">م</string>
+	<string name="all_ar">الكل</string>
+
+	<!-- Arabic Content for Error Messages -->
+	<string name="enter16digitNo_ar">* برجاء ادخال رقم البطاقة المكون من 16 رقم</string>
+	<string name="unableToFindBrandDetail_ar">لا توجد تفاصيل</string>
+	<string name="invalidEmailCardno_ar">* بريد الكتروني أو رقم بطاقة خطأ</string>
+	<string name="shukranRewards_ar">مكافآت شكرا</string>
+	<string name="wantToDiscard_ar">هل تريد عدم حفظ التغيرات ؟</string>
+	<string name="dontDiscard_ar">احفظ</string>
+	<string name="Discard_ar">لا تحفظ</string>
+	<string name="exclusiveOfferOnly_ar">العروض الحصرية هي للأعضاء فقط. برجاء الاشتراك أو تفعيل الحساب للاستفادة</string>
+	<string name="offerAbtToExpipre_ar">سوف ينتهي العرض قريبا ، لا تفوت الفرصة اذهب الى أقرب متجر</string>
+	<string name="thisFieldRequired_ar">* هذه الخانة اساسية</string>
+	<string name="thisFieldNumeric_ar">* يرجى ملء الخانه بالارقام</string>
+	<string name="thisRequired9to13_ar">* ادخل الارقام من 9 ال 13رقم</string>
+	<string name="thisRequired6to10_ar">* ادخل الارقام من 6 ال 10رقم</string>
+	<string name="ageLimitMessage_ar">* حتي تتمكن من التسجيل يجب الا يقل سنك عن 18 سنه</string>
+	<string name="loginerror_ar">دخول غير صحيح</string>
+	<string name="enterValidDate_ar">يرجى ادخال تاريخ صحيح</string>
+	<string name="loginfailedmsg_ar">لقد ادخلت اسم غير صحيح و\أو كلمة سر غير صحيحة. الرجاء اعادة المحاولة</string>
+	<string name="cardactivationerror_ar">تفعيل البطاقة غير صحيح</string>
+	<string name="cardactivefailedmsg_ar">لقد أدخلت رقم بطاقة غير صحيح .الرجاء اعادة المحاولة</string>
+	<string name="cancelconfimalert_ar">هل أنت متأكدأنك تريد إلالغاء؟</string>
+	<string name="gpserror_ar">خطأ في جي بي اس</string>
+	<string name="gpserrormsg_ar">نأسف! يرجى فتح الجي بي اس.يرجىالتحقق من الإعداداتوالمحاولة مرة أخرى</string>
+	<string name="cancel_ar">الغاء</string>
+	<string name="next_ar">التالي</string>
+	<string name="back_ar">السابق</string>
+	<string name="done_ar">تأكيد</string>
+	<string name="continue_ar">استمرار</string>
+	<string name="contactus_ar">اتصل بنا</string>
+	<string name="filter_ar">تصفية</string>
+	<string name="map_ar">الخريطة</string>
+	<string name="list_ar">القائمة</string>
+	<string name="termsofuse_ar">شروط الاستخدام</string>
+	<string name="privacypolicy_ar">سياسة\nالخصوصية</string>
+	<string name="aboutprogram_ar">حول البرنامج</string>
+	<string name="programrules_ar">قواعداالبرنامج</string>
+	<string name="participatingbrands_ar">المحلات المشاركة</string>
+	<string name="gotopointscalculator_ar">اذهب الى الحاسبة</string>
+	<string name="welcometoshukran_ar">مرحبا بكم في شكرا</string>
+	<string name="invalidemail_ar">البريدالاكترونيغيرصحيح</string>
+	<string name="entervalidunamepwd_ar">برجاء ادخال اسم المستخدم وكلمة السر بطريقة صحيحة</string>
+	<string name="contactupdated_ar">تم تحديث بيانات الاتصال بنجاح</string>
+	<string name="familydetailsupdated_ar">تم تحديث الحالة الاجتماعية بنجاح</string>
+	<string name="currentpwdincorrect_ar">كلمة السر المستخدمة غير صحيحة،الرجاء المحاولة مرة أخرى</string>
+	<string name="pwdUpdatedSuccessfully_sr">تم تحديث كلمة السر بنجاح</string>
+	<string name="errortryagain_ar">لقدحدثخطأ،منفضلكحاولمرةاخري</string>
+	<string name="ierrortitle_ar">اتصال إنترنتخاطيء</string>
+	<string name="ierrormsg_ar">نأسف! يرجى الاتصال بالإنترنت.يرجىالتحقق من الإعداداتوالمحاولة مرة أخرى</string>
+	<string name="locationnotshare_ar">عذراً،لقداخترتعدممشاركةموقعكمعنا.  لذلكلقدقمناباستخدام ‘الموقعالتالي</string>
+	<string name="somethingwrong_ar">عذراً، فقد حدث عطل مفاجئ مرتبط باتصال هاتفك بالانترنت. يرجى المحاولة مرة أخرى.</string>
+	<string name="shukran_ar">مكافآت شكرا</string>
+	<string name="yourinterests_ar">Your Interests</string>
+	<string name="interests_ar">INTERESTS</string>
+	<string name="arts_ar">Arts</string>
+	<string name="sports_ar">Sports</string>
+	<string name="moviestheatre_ar">
+		Movies<![CDATA["/"]]> Theatre
+	</string>
+	
+	<string name="music_ar">Music</string>
+	<string name="shopping_ar">Shopping</string>
+	<string name="travel_ar">Travel</string>
+	<string name="food_ar">Food</string>
+	<string name="downloadingStores">Downloading the latest store details, please wait a few moments.</string>
+	<string name="downloadingStores_ar">يتم تحديث احدث البيانات عن المحل،يرجی الانتظار لمده ثواني</string>
+	<string name="downloadingOffers">Downloading your latest offers now, please wait a few moments.</string>
+	<string name="downloadingOffers_ar">جاري تحميل احدث العروض ، يرجى الانتظار بضع لحظات</string>
+	<string name="loadingCancel">CANCEL</string>
+	<string name="loadingCancel_ar">الغاء</string>
+	<string name="loadingCanceling">Canceling</string>
+	<string name="loadingCanceling_ar">جاري الالغاء</string>
+	<string name="transLoadingMsg">Downloading your latest transactions, \nplease wait a few moments.</string>
+	<string name="transLoadingMsg_ar">جاري تحميل العملية الاخيرة، الرجاء الأنتظار لبضع لحظات</string>
+	<string name="enroll1LoadingMsg">Validating your email address.</string>
+	<string name="enroll1LoadingMsg_ar">جاري التحقق من بريدك الالكتروني</string>
+	<string name="enroll2LoadingMsg">Submitting your details, please wait a few moments.</string>
+	<string name="enroll2LoadingMsg_ar">جاري ارسال بياناتك، الرجاء الأنتظار لبضع لحظات</string>
+	<string name="activation1LoadingMsg">Validating your card number, please wait a few moments.</string>
+	<string name="activation1LoadingMsg_ar">جاري التحقق من صحة رقم بطاقتك، الرجاء الأنتظار لبضع لحظات</string>
+	<string name="myaccLoadingMsg">Saving your changes, please wait a few moments.</string>
+	<string name="myaccLoadingMsg_ar">جاري حفظ التغيرات، الرجاء الأنتظار لبضع لحظات</string>
+	<string name="onlyEnglishInput">Please use English characters only.</string>
+	<string name="onlyEnglishInput_ar">يرجى استخدام الأبجدية الإنجليزية فقط.</string>
+	<!-- Enrollment -->
+	<string name="enrollI">The email provided is linked to an incomplete previous enrollment. Press OK to complete it now or contact our Support Team for further assistance.</string>
+	<string name="enrollI_ar">البريد الالكتروني الذي ادخلته متصل برقم حساب غير مكتمل المعلومات.أضغط علي موافق لأستكمال البيانات أو أتصل بخدمة العملاء للمساعدة.</string>
+	<string name="enrollJ">The email provided is linked to an incomplete previous card activation. Press OK to complete it now or contact our Support Team for further assistance.</string>
+	<string name="enrollJ_ar">البريد الالكتروني الذي ادخلته متصل برقم حساب سابق غير مفعل .أضغط علي موافق لأستكمال البيانات أو أتصل بخدمة العملاء للمساعدة.</string>
+	<string name="enrollK">The email provided is linked to a card that requires activation. Activate it now or contact our Support Team.</string>
+	<string name="enrollK_ar">البريد الالكتروني الذي ادخلته متصل برقم حساب يتطلب تفعيله .رجاءا قم بتفعيله الان او قم بالاتصال بخدمة العملاء لنتمكن من مساعدتك</string>
+	<string name="enrollL">We are unable to complete your enrollment as this email is already in use. Contact our Support Team for assistance.</string>
+	<string name="enrollL_ar">لا يمكننا اتمام عملية التسجيل لان البريد الالكتروني الذي ادخلته مستخدم.  برجاء الاتصال بخدمة العملاء لنتمكن من مساعدتك</string>
+	<string name="enrollM">We are unable to complete your enrollment as this email is already in use. Our Support Team will contact you shortly.</string>
+	<string name="enrollM_ar">لا يمكننا اتمام عملية التسجيل لان البريد الالكتروني الذي ادخلته مستخدم. سوف يقوم احد مساعدينا بالاتصال بك قريبا</string>
+	<string name="enrollN">The email provided is linked to a card that is already activated, login now using this card number or email.</string>
+	<string name="enrollN_ar">البريد الالكتروني الذي ادخلته قد تم تفعيل بطاقة به سابقا، قم بالدخول باستخدام رقم هذه البطاقة او البريد الالكتروني</string>
+	<!-- Card Activation -->
+	<string name="activationA">Please enter a valid 16-digit card number.</string>
+	<string name="activationA_ar">الرجاء ادخال رقم البطاقة المكون من 16 رقم</string>
+	<string name="activationB">We are unable to activate your card. Please contact our Support Team.</string>
+	<string name="activationB_ar">لا يمكننا تفعيل البطاقة .برجاء الاتصال بخدمة العملاء</string>
+	<string name="activationC">Your card is already activated, login now with your card number or email.</string>
+	<string name="activationC_ar">رقم بطاقتك قد تم تفعيله سابقا .برجاء الدخول بواسطة رقم البطاقة او البريد الالكتروني</string>
+	<string name="activationD">We are unable to activate your card. Contact our Support Team to confirm your email address.</string>
+	<string name="activationD_ar">لا يمكننا تفعيل البطاقة .برجاء الاتصال بخدمة العملاء للتاكد من بريدك الالكتروني</string>
+	<string name="activationF">We are unable to activate your card. Our Support Team will contact you shortly.</string>
+	<string name="activationF_ar">لا يمكننا تفعيل البطاقة .سوف يقوم قسم خدمة العملاء بالاتصال بك قريبا</string>
+	<string name="activationG">We are unable to activate your card due to an incomplete previous enrollment. Press OK to complete it now or contact our Support Team for further assistance.</string>
+	<string name="activationG_ar">لا يمكننا تفعيل البطاقة لعدم وجود معلومات كافية في حسابك. أضغط علي موافق لأستكمال البيانات أو أتصل بخدمة العملاء للمساعدة.</string>
+	<string name="activationH">We are unable to process this request as a previous card activation is pending. Please activate the original card now or contact our Support Team.</string>
+	<string name="activationH_ar">لا يمكننا اكمال الطلب بسبب عدم تفعيل البطاقة. برجاء قم بتفعيل بطاقتك اواتصل باحد موظفينا لمساعدتك</string>
+	<string name="alertCancel">Cancel</string>
+	<string name="alertCancel_ar">الغاء</string>
+	<string name="alertOk">OK</string>
+	<string name="alertOk_ar">تأكيد</string> 
+	<string name="contact_our_support_team_ar">أتصل بخدمة العملاء</string>
+	<string name="need_help_ar">للمساعدة,</string>
+	<string name="OutsideBahrain">Outside Bahrain:</string>
+	<string name="OutsideBahrain_ar">خارج دولة البحرين:</string>
+	<string name="OutsideUAE">Outside UAE:</string>
+	<string name="OutsideUAE_ar">خارج دولة الإمارات العربية المتحدة:</string>
+	<string name="availablePointsLabel">Available Points:</string>
+	<string name="availablePointsLabel_ar">النقاط المتوفرة:</string>
+	<string name="pendingPointsLabel">Pending Points:</string>
+	<string name="pendingPointsLabel_ar">النقاط المعلقة :</string>
+	<string name="transactionMessage_ar">شاهد اخر 10 معاملات. تذكر ان النقاط سوف تكون متاحة لك بعد 14 يوم من حصولك عليها</string>
+	<string name="sureWantToExit_ar">هل أنت متأكد من أنك تريد الخروج؟</string>
+</resources>
