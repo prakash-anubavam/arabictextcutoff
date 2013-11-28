@@ -56,17 +56,17 @@ exports.aboutView = function() {
 	for (var i = 0, tlen = responseString2.faqs.ar.length; i < tlen; i++) {
 		topicView2[i] = Ti.UI.createView({
 			topicId : i,
-			top : '0dp',
-			left : '0dp',
-			right : '0dp',
+			top : 'dp',
+			left : '2dp',
+			right : '2dp',
 			backgroundColor : "#fff",
 			height : '40dp'
 		});
 		view3.add(topicView2[i]);
 
 		var topView2 = Ti.UI.createView({
-			left : '0dp',
-			right : '0dp',
+			left : '2dp',
+			right : '2dp',
 			top : '10dp',
 			bottom : '10dp',
 			//layout : 'horizontal',
@@ -98,8 +98,8 @@ exports.aboutView = function() {
 
 		var separator6 = Ti.UI.createView({
 			bottom : '0dp',
-			left : '0dp',
-			right : '0dp',
+			left : '2dp',
+			right : '2dp',
 			backgroundColor : "#ccc",
 			height : '1dp'
 		});
@@ -108,8 +108,8 @@ exports.aboutView = function() {
 	
 		qaView2[i] = Ti.UI.createView({
 			top : '0dp',
-			left : '0dp',
-			right : '0dp',
+			left : '2dp',
+			right : '2dp',
 			backgroundColor : "#fff",
 			height : (i == 0) ? Ti.UI.SIZE : '0dp',
 			layout : 'vertical',
@@ -118,8 +118,8 @@ exports.aboutView = function() {
 		view3.add(qaView2[i]);
 
 		var ansText2 = Ti.UI.createLabel({
-			right : '0dp',
-			left : '0dp',
+			right : '45dp',
+			left : '2dp',
 			top : '13dp',
 			textAlign : 'right',
 			text : responseString2.faqs.ar[i].content,
